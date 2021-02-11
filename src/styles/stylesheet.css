@@ -1,0 +1,34 @@
+@font-face {
+  src: local('./fonts/notosans.ttf') format(ttf);
+  font-family: 'Noto Sans', sans-serif;
+}
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+  margin: 30px;
+  max-width: 38rem;
+  padding: 2rem;
+  background: #292F33
+}
+
+header bar
+h1 {
+  font-family: 'Arial Narrow', Arial, sans-serif;
+  margin: auto;
+  -moz-box-align: center;
+
+  max-width: 800px;
+  font-size: larger;
+  padding: 200px;
+  color: darkgray;
+}
+
+.baseapp {
+  border-color: darkslateblue;
+  border-width: 10rem;
+}
+
+
+p {
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}

@@ -23,6 +23,9 @@ lib-cov
 coverage
 *.lcov
 
+# fonts for now
+/fonts
+
 # nyc test coverage
 .nyc_output
 
@@ -87,3 +90,6 @@ typings/
 
 # Electron-Forge
 out/
+src/styles/fonts/NotoSans-Bold.ttf
+*.ttf
+*.zip
